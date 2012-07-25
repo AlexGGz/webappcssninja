@@ -1,0 +1,19 @@
+CACHE MANIFEST
+
+CACHE:
+# Offline cache v2
+# html files
+index.html
+article.html
+
+# css files
+assets/_styles.css
+
+# js files
+assets/_javascript.js
+
+# images
+assets/ico_ninja-star.gif
+
+# fonts
+assets/vomzom.svg
